@@ -1,7 +1,7 @@
 # Self-XSS v1.3
 Self-XSS attack using bit.ly to grab cookies tricking users into running malicious code
 
-## Instagram: https://instagram.com/programemerz
+## Instagram: https://instagram.com/itslilcan
 
 ![](image.jpg)
 
@@ -25,7 +25,7 @@ Usage of Self-XSS for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/programemerz/selfxss
+git clone https://github.com/Came-Dave/selfxss
 cd selfxss
 bash self-xss.sh
 ```
